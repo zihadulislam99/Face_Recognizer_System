@@ -1,15 +1,10 @@
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
-
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)](https://opencv.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)](CONTRIBUTING.md)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)](https://github.com/USERNAME/REPO_NAME/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/zihadulislam99/REPO_NAME?style=social)](https://github.com/zihadulislam99/REPO_NAME/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/zihadulislam99/REPO_NAME?style=social)](https://github.com/zihadulislam99/REPO_NAME/network/members)
 
 # Face Recognizer System
 
