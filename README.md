@@ -3,6 +3,14 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)](https://opencv.org/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)](https://github.com/USERNAME/REPO_NAME/stargazers)
+
 # Face Recognizer System
 
 A **real-time face recognition system** built with Python and OpenCV that detects and recognizes human faces using a webcam. It uses Haar Cascade classifiers for face detection and the LBPH (Local Binary Patterns Histograms) algorithm for recognizing registered users. Unknown faces are marked as “Unknown,” and confidence scores are displayed for each prediction. The system is modular, lightweight, and suitable for applications like attendance tracking, access control, and personal computer vision projects.
