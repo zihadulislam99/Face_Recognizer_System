@@ -3,8 +3,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)](https://opencv.org/)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](CONTRIBUTING.md)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Stars](https://img.shields.io/github/stars/zihadulislam99/REPO_NAME?style=social)](https://github.com/zihadulislam99)
-[![GitHub Forks](https://img.shields.io/github/forks/zihadulislam99/REPO_NAME?style=social)](https://github.com/zihadulislam99)
 
 # Face Recognizer System
 
